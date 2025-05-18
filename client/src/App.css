@@ -1824,4 +1824,18 @@
       display: none;
     }
   }
+.custom-message-input__wrapper {
+  position: relative;
+}
+
+.custom-message-input__count {
+  position: absolute;
+  right: 10px;
+  bottom: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  color: #999;
+  user-select: none;
+}
+
   
